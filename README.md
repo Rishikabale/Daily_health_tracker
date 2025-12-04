@@ -86,6 +86,6 @@ flutter run
 
 📸 App Screenshots
 
-| Login Screen | Dashboard | Analytics |
+| Login Screen | Dashboard | Analytics | dark/light mode 
 |:---:|:---:|:---:|
-| <img src="screenshots/login.jpg" width="250"> | <img src="screenshots/dashboard.jpg" width="250"> | <img src="screenshots/analytics.png" width="250"> |
+| <img src="screenshots/login.jpg" width="250"> | <img src="screenshots/dashboard.jpg" width="250"> | <img src="screenshots/analytics.jpg" width="250"> |<img src="screenshots/lightmode.jpg" width="250">
