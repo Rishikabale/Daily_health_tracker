@@ -1,4 +1,4 @@
-Daily Health Tracker-
+**Daily Health Tracker**-
 A Flutter app built to monitor your everyday health habits. This project highlights skills such as GetX State Management, MVC Architecture, REST API Integration, Google Authentication, and Data Visualization.
 **Tech Stack**
 
@@ -78,7 +78,14 @@ This app uses Firebase for Google Sign-In.
 
 Ensure the google-services.json file is located in android/app/.
 
-If it’s missing, generate your SHA-1 key and register the app on Firebase Console to get the file.
+If it’s missing, generate your SHA-1 key and register the app on the Firebase Console
+ to get the file.
 
 4. Run the App
 flutter run
+
+📸 App Screenshots
+
+| Login Screen | Dashboard | Analytics |
+|:---:|:---:|:---:|
+| <img src="screenshots/login.jpg" width="250"> | <img src="screenshots/dashboard.jpg" width="250"> | <img src="screenshots/analytics.png" width="250"> |
