@@ -1,5 +1,6 @@
 **Daily Health Tracker**-
 A Flutter app built to monitor your everyday health habits. This project highlights skills such as GetX State Management, MVC Architecture, REST API Integration, Google Authentication, and Data Visualization.
+
 **Tech Stack**
 
 Framework: Flutter
@@ -16,16 +17,25 @@ Networking: http
 Charting: fl_chart
 
 **Folder Stucture**
-lib/
-├── models/
-├── views/
-├── controllers/
-├── services/
-├── routes/
-├── widgets/
-├── utils/
-└── main.dart
 
+
+lib/
+
+├── models/
+
+├── views/
+
+├── controllers/
+
+├── services/
+
+├── routes/
+
+├── widgets/
+
+├── utils/
+
+└── main.dart
 
 **Implemented Features**
 1. Authentication
